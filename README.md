@@ -1,59 +1,23 @@
-*In Gotham or GitHub, even Batman believes in lifelong learning 🦇*
+👋 Welcome to My GitHub
+In the world of tech, even a full-stack developer knows the importance of lifelong learning. 🌐
 
-![desktop-wallpaper-batman-phone-cool-batman-phone-batman-batman-lockscreen-batman-funny-iphone](https://github.com/BabaVoos/BabaVoos/assets/91697196/fbec58b3-bc33-4117-abfd-8b87b232fafc)
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## ℹ About Me
-
-
-- 🔭 I’m currently a Mobile Application Developer *Flutter*
-
-- 🌱 I’m currently learning Advanced Flutter
-
-- 📫 Feel free to reach me out *mudarabdulhadi@gmail.com*
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 💻 Languages and Tools
-<div align="start">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,python,flask" /><br>
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 📊 My Stats
-
-<div align="start">
-    <a href="https://github.com/BabaVoos/github-readme-stats">
-        <img alt="Mudar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabaVoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=c%2B%2B" />
-    </a>
-    <a href="https://github.com/BabaVoos/github-readme-stats">
-        <img alt="Mudar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabaVoos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/mudar-voos-521424240/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    
-  <a href="https://instagram.com/mudar_bv/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-  <a href="mailto:mudarabdulhadi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+ℹ About Me
+🌍 I'm a MERN Stack Developer passionate about crafting full-stack web applications.
+🛠 I specialize in React.js, Node.js, Express.js, and MongoDB.
+🌱 Currently enhancing my skills in TypeScript and Next.js.
+🎨 Check out my portfolio: Portfolio Website
+📬 Feel free to reach me at ziadahmedsalah222@gmail.com.
+🚀 Building innovative solutions one line of code at a time.
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+💻 Languages and Tools
+<div align="start"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,redux" /> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,vscode,git,github,postman" /><br> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+📊 My Stats
+<div align="start"> <a href="https://github.com/zerox3200/github-readme-stats"> <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=zerox3200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=issues" /> </a> <a href="https://github.com/zerox3200/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerox3200&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+🏆 Achievements
+🏅 Built and deployed scalable MERN applications.
+📈 Increased application performance using React optimizations and server-side rendering (SSR).
+🧩 Designed RESTful APIs and implemented JWT-based authentication.
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+🤝 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/ziad-ahmed-%F0%9F%87%B5%F0%9F%87%B8-8118a4233/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.facebook.com/ziad.ahmed.1481169/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="mailto:ziadahmedsalah222@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
