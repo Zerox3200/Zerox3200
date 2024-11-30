@@ -23,7 +23,6 @@
 
 ## 💻 Languages and Tools
 <div align="start">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
     <img src="https://skillicons.dev/icons?i=github,vscode,javascript,postman,nodejs,html,css,expressjs,react,next" /><br>
 </div>
 <div align="center">
