@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a Mern Stack Developer 
 
-- 🌱 I’m currently learning Integraion testing and 
+- 🌱 I’m currently learning Integraion testing. 
 
 - 📫 Feel free to reach me out *ziadahmedsalah222@gmail.com*
 <div align="center">
