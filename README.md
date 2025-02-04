@@ -3,7 +3,7 @@
 
 ![desktop-wallpaper-batman-phone-cool-batman-phone-batman-batman-lockscreen-batman-funny-iphone](https://github.com/BabaVoos/BabaVoos/assets/91697196/fbec58b3-bc33-4117-abfd-8b87b232fafc)
 <div align="center">
-    <img src="https://res.cloudinary.com/dn6149nzx/image/upload/v1738677525/rbrhbxqdnw7fx2prhuni.jpg" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
 
