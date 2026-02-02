@@ -30,19 +30,6 @@
 </div>
 <br>
 
-## 📊 My Stats
-
-<div align="start">
-    <a href="https://github.com/Zerox3200/github-readme-stats">
-        <img alt="Mudar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zerox3200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=c%2B%2B" />
-    </a>
-    <a href="https://github.com/Zerox3200/github-readme-stats">
-        <img alt="Ziad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerox3200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 
 ## 🤝 Connect With Me
 
