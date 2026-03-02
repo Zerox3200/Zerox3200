@@ -3,9 +3,9 @@
 <h3 align="center">  A passionate Full Stack Developer</h3>        
                      
  💫 About Me                       
-- 🎓 I'm a Student and Web Developer.        
-- 🔭 I’m currently working on Web Development.   
-- 🌱 I’m currently learning Docker.       
+-  I'm Web Developer.        
+-  I’m currently working on Web Development.   
+-  I’m currently learning Docker.       
 
        
 <h4 align="center">  It’s not Over, Until I WIN. 🎯</h4>  
