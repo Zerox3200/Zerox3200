@@ -15,8 +15,6 @@
 <!--   <img src="https://profile-counter.glitch.me/premkolte/count.svg?" start="1000" /> -->
 <!-- </div>  -->
 
-## Open Source Project
-![premkolte trophies](https://github-readme-stats.vercel.app/api/pin/?username=premkolte&theme=radical&repo=AnimateHub)    
 
 ## 📊 GitHub Stats:   
     
@@ -117,13 +115,7 @@
 <div align="left">
   <h3 align="left">Connect with me: </h3> 
   <p align="left">
-  <a href="https://twitter.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkolte26" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/prem-kolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kolte" height="30" width="40" /></a>
-  <a href="https://instagram.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="premkolte26" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/premkolte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premkolte" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/premkolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="premkolte" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="premkolte26" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/premkolte26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="premkolte26" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ziad-ahmed-8118a4233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kolte" height="30" width="40" /></a>
   </p> 
 </div>
 
